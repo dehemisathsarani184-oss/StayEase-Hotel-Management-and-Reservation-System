@@ -77,7 +77,7 @@ Developed as a portfolio project to practice full-stack web development, REST AP
 ![Booking Page](https://raw.githubusercontent.com/dehemisathsarani184-oss/StayEase-Hotel-Management-and-Reservation-System/main/Scrrenshot/Booking.png)
 
 ### 📞 Contact Page
-![Contact Page](/https://raw.githubusercontent.com/dehemisathsarani184-oss/StayEase-Hotel-Management-and-Reservation-System/main/Scrrenshot/Contact.png)
+![Contact Page](https://raw.githubusercontent.com/dehemisathsarani184-oss/StayEase-Hotel-Management-and-Reservation-System/main/Scrrenshot/Contact.png)
 
 ### 🦶 Footer Section
 ![Footer Section](https://raw.githubusercontent.com/dehemisathsarani184-oss/StayEase-Hotel-Management-and-Reservation-System/main/Scrrenshot/Footer.png)
