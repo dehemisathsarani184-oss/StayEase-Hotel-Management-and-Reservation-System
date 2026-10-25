@@ -65,31 +65,31 @@ Developed as a portfolio project to practice full-stack web development, REST AP
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![StayEase Home Page](./Screenshot/Home.png)
+![StayEase Home Page](https://raw.githubusercontent.com/dehemisathsarani184-oss/StayEase-Hotel-Management-and-Reservation-System/main/Scrrenshot/Home.png)
 
 ### 🏡 Home Page – Section 2
-![StayEase Home Page Section 2](./Screenshot/Home%202.png)
+![StayEase Home Page Section 2](https://raw.githubusercontent.com/dehemisathsarani184-oss/StayEase-Hotel-Management-and-Reservation-System/main/Scrrenshot/Home%202.png)
 
 ### ℹ️ About Page
-![About Page](./Screenshot/About.png)
+![About Page](https://raw.githubusercontent.com/dehemisathsarani184-oss/StayEase-Hotel-Management-and-Reservation-System/main/Scrrenshot/About.png)
 
 ### 📅 Booking Page
-![Booking Page](./Screenshot/Booking.png)
+![Booking Page](https://raw.githubusercontent.com/dehemisathsarani184-oss/StayEase-Hotel-Management-and-Reservation-System/main/Scrrenshot/Booking.png)
 
 ### 📞 Contact Page
-![Contact Page](./Screenshot/Contact.png)
+![Contact Page](/https://raw.githubusercontent.com/dehemisathsarani184-oss/StayEase-Hotel-Management-and-Reservation-System/main/Scrrenshot/Contact.png)
 
 ### 🦶 Footer Section
-![Footer Section](./Screenshot/Footer.png)
+![Footer Section](https://raw.githubusercontent.com/dehemisathsarani184-oss/StayEase-Hotel-Management-and-Reservation-System/main/Scrrenshot/Footer.png)
 
 ### 📊 Admin Dashboard
-![Admin Dashboard](./Screenshot/Admin%20Dashboard.png)
+![Admin Dashboard](https://raw.githubusercontent.com/dehemisathsarani184-oss/StayEase-Hotel-Management-and-Reservation-System/main/Scrrenshot/Admin%20Dashboard.png)
 
 ### 🛏️ Room Management
-![Room Management](./Screenshot/Room%20Management.png)
+![Room Management](https://raw.githubusercontent.com/dehemisathsarani184-oss/StayEase-Hotel-Management-and-Reservation-System/main/Scrrenshot/Room%20Management.png)
 
 ### 🏷️ Room Type Management
-![Room Type Management](./Screenshot/Room%20Type%20MAnagement.png)
+![Room Type Management](https://raw.githubusercontent.com/dehemisathsarani184-oss/StayEase-Hotel-Management-and-Reservation-System/main/Scrrenshot/Room%20Type%20MAnagement.png)
 
 ---
 
