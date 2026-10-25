@@ -65,31 +65,31 @@ Developed as a portfolio project to practice full-stack web development, REST AP
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![StayEase Home Page](./Screenshots/Home.png)
+![StayEase Home Page](./Screenshot/Home.png)
 
 ### 🏡 Home Page – Section 2
-![StayEase Home Page Section 2](./Screenshots/Home%202.png)
+![StayEase Home Page Section 2](./Screenshot/Home%202.png)
 
 ### ℹ️ About Page
-![About Page](./Screenshots/About.png)
+![About Page](./Screenshot/About.png)
 
 ### 📅 Booking Page
-![Booking Page](./Screenshots/Booking.png)
+![Booking Page](./Screenshot/Booking.png)
 
 ### 📞 Contact Page
-![Contact Page](./Screenshots/Contact.png)
+![Contact Page](./Screenshot/Contact.png)
 
 ### 🦶 Footer Section
-![Footer Section](./Screenshots/Footer.png)
+![Footer Section](./Screenshot/Footer.png)
 
 ### 📊 Admin Dashboard
-![Admin Dashboard](./Screenshots/Admin%20Dashboard.png)
+![Admin Dashboard](./Screenshot/Admin%20Dashboard.png)
 
 ### 🛏️ Room Management
-![Room Management](./Screenshots/Room%20Management.png)
+![Room Management](./Screenshot/Room%20Management.png)
 
 ### 🏷️ Room Type Management
-![Room Type Management](./Screenshots/Room%20Type%20MAnagement.png)
+![Room Type Management](./Screenshot/Room%20Type%20MAnagement.png)
 
 ---
 
