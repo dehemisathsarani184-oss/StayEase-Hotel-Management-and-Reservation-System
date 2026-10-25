@@ -64,30 +64,32 @@ Developed as a portfolio project to practice full-stack web development, REST AP
 
 ## 📸 Screenshots
 
-### 🏨 StayEase Home Page
-![StayEase Home Page](./screenshots/Home.png)
-![StayEase Home Page](./screenshots/Home%2.png)
+### 🏠 Home Page
+![StayEase Home Page](./Screenshots/Home.png)
 
-### 🛏️ Room Management
-![Room Management](./screenshots/Room%Management.png)
-
-### 🏷️ Room Type Management
-![Room Type Management](./screenshots/Room%Type%Management.png)
-
-### 📅 Reservation Management
-![Reservation Management](./screenshots/Bookin.png)
-
-### 🧾 Footer
-![Invoice Management](./screenshots/Footer.png)
-
-### 📊 Admin Dashboard
-![Admin Dashboard](./screenshots/Admin%Dashboard.png)
-
-### 📞 Contact Page
-![Contact Page](./screenshots/Contact.png)
+### 🏡 Home Page – Section 2
+![StayEase Home Page Section 2](./Screenshots/Home%202.png)
 
 ### ℹ️ About Page
-![About Page](./screenshots/.png)
+![About Page](./Screenshots/About.png)
+
+### 📅 Booking Page
+![Booking Page](./Screenshots/Booking.png)
+
+### 📞 Contact Page
+![Contact Page](./Screenshots/Contact.png)
+
+### 🦶 Footer Section
+![Footer Section](./Screenshots/Footer.png)
+
+### 📊 Admin Dashboard
+![Admin Dashboard](./Screenshots/Admin%20Dashboard.png)
+
+### 🛏️ Room Management
+![Room Management](./Screenshots/Room%20Management.png)
+
+### 🏷️ Room Type Management
+![Room Type Management](./Screenshots/Room%20Type%20MAnagement.png)
 
 ---
 
