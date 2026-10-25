@@ -62,6 +62,33 @@ Developed as a portfolio project to practice full-stack web development, REST AP
 - Improved authentication and role-based access control
 - Responsive design enhancements
 
+## 📸 Screenshots
+
+### 🏨 StayEase Home Page
+![StayEase Home Page](./screenshots/Home.png)
+![StayEase Home Page](./screenshots/Home%2.png)
+
+### 🛏️ Room Management
+![Room Management](./screenshots/Room%Management.png)
+
+### 🏷️ Room Type Management
+![Room Type Management](./screenshots/Room%Type%Management.png)
+
+### 📅 Reservation Management
+![Reservation Management](./screenshots/Bookin.png)
+
+### 🧾 Footer
+![Invoice Management](./screenshots/Footer.png)
+
+### 📊 Admin Dashboard
+![Admin Dashboard](./screenshots/Admin%Dashboard.png)
+
+### 📞 Contact Page
+![Contact Page](./screenshots/Contact.png)
+
+### ℹ️ About Page
+![About Page](./screenshots/.png)
+
 ---
 
 **StayEase – Simplifying Hotel Management.**
